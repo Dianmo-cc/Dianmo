@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="150" viewBox="0 0 880 150">
+<g font-family="'PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif">
+<g transform="translate(0 0)">
+  <rect x="0.75" y="0.75" width="278.5" height="148.5" rx="22" fill="#1D1915" stroke="#2F2922" stroke-width="1.5"/>
+  <rect x="26" y="26" width="36" height="36" rx="9" fill="#D9573F"/>
+  <text x="44" y="51" text-anchor="middle" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="20" font-weight="700" fill="#FFF8F0">源</text>
+  <text x="76" y="51" font-size="19" font-weight="700" fill="#F3EEE5">兼容 Legado</text>
+  <text x="26" y="98" font-size="16" fill="#A69D90">书源直接导入，</text>
+  <text x="26" y="124" font-size="16" fill="#A69D90">安卓备份一键迁移。</text>
+</g>
+<g transform="translate(300 0)">
+  <rect x="0.75" y="0.75" width="278.5" height="148.5" rx="22" fill="#1D1915" stroke="#2F2922" stroke-width="1.5"/>
+  <rect x="26" y="26" width="36" height="36" rx="9" fill="#D9573F"/>
+  <text x="44" y="51" text-anchor="middle" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="20" font-weight="700" fill="#FFF8F0">原</text>
+  <text x="76" y="51" font-size="19" font-weight="700" fill="#F3EEE5">原生体验</text>
+  <text x="26" y="98" font-size="16" fill="#A69D90">Swift 从零打造，</text>
+  <text x="26" y="124" font-size="16" fill="#A69D90">顺滑翻页、锁屏听书。</text>
+</g>
+<g transform="translate(600 0)">
+  <rect x="0.75" y="0.75" width="278.5" height="148.5" rx="22" fill="#1D1915" stroke="#2F2922" stroke-width="1.5"/>
+  <rect x="26" y="26" width="36" height="36" rx="9" fill="#D9573F"/>
+  <text x="44" y="51" text-anchor="middle" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="20" font-weight="700" fill="#FFF8F0">密</text>
+  <text x="76" y="51" font-size="19" font-weight="700" fill="#F3EEE5">数据只属于你</text>
+  <text x="26" y="98" font-size="16" fill="#A69D90">密钥存于系统钥匙串，</text>
+  <text x="26" y="124" font-size="16" fill="#A69D90">AI 服务由你选择。</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="56" viewBox="0 0 240 56">
+
+<rect width="240" height="56" rx="28" fill="#1E1A15"/>
+<g fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="translate(42 16)">
+  <path d="M12 2v15M5.5 11 12 17.5 18.5 11M4 22h16"/>
+</g>
+<text x="140" y="35" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">下载 Beta 版</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="556" viewBox="0 0 880 556">
+
+<defs>
+  <linearGradient id="ag" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#D9573F" stop-opacity="0.26"/>
+    <stop offset="0.45" stop-color="#D9573F" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="ac"><rect x="1" y="1" width="878" height="554" rx="28"/></clipPath>
+</defs>
+<rect x="1" y="1" width="878" height="554" rx="28" fill="#1D1915"/>
+<g clip-path="url(#ac)">
+  <rect width="880" height="556" fill="url(#ag)"/>
+  <circle cx="800" cy="60" r="170" fill="none" stroke="#D9573F" stroke-opacity="0.16" stroke-width="26" stroke-linecap="round" stroke-dasharray="700 400" transform="rotate(25 800 60)"/>
+  <circle cx="800" cy="60" r="132" fill="none" stroke="#D9573F" stroke-opacity="0.2" stroke-width="3" stroke-dasharray="520 300" transform="rotate(60 800 60)"/>
+</g>
+<rect x="1" y="1" width="878" height="554" rx="28" fill="none" stroke="#D9573F" stroke-opacity="0.3" stroke-width="1.5"/>
+<g font-family="'PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif">
+  <rect x="48" y="48" width="64" height="64" rx="16" fill="#D9573F"/>
+  <text x="80" y="91" text-anchor="middle" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="34" font-weight="700" fill="#FFF8F0">智</text>
+  <rect x="132" y="50" width="76" height="26" rx="13" fill="#D9573F" fill-opacity="0.14"/>
+  <text x="170" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#D9573F">AI 助读</text>
+  <text x="132" y="110" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="36" font-weight="700" fill="#F3EEE5" letter-spacing="1">会读书的 AI</text>
+  <text x="48" y="160" font-family="'Songti SC','STSong','Noto Serif CJK SC','Source Han Serif SC','SimSun',serif" font-size="21" fill="#F3EEE5">它读懂你正在读的书，却从不剧透后面的故事。</text>
+  <text x="48" y="190" font-size="15" fill="#A69D90">接入 OpenAI 兼容接口、Anthropic，或直接使用 iPhone 上的 Apple Intelligence 设备端模型。</text>
+  <line x1="48" y1="208" x2="832" y2="208" stroke="#2F2922" stroke-width="1.5"/>
+  
+  <g transform="translate(48 238)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">前情提要</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">久别重读，一键回到故事里</text>
+  </g>
+  <g transform="translate(309.3333333333333 238)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">本章摘要</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">章节要点，即刻呈现</text>
+  </g>
+  <g transform="translate(570.6666666666666 238)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">防剧透问答</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">只依据读过的内容，附出处</text>
+  </g>
+  <g transform="translate(48 308)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">人物设定</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">人物、地点、组织随查随看</text>
+  </g>
+  <g transform="translate(309.3333333333333 308)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">人物关系图</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">谁是谁的谁，一图看清</text>
+  </g>
+  <g transform="translate(570.6666666666666 308)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">分卷大事记</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">梳理整卷故事脉络</text>
+  </g>
+  <g transform="translate(48 378)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">高能标记</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">精彩章节，一个不落</text>
+  </g>
+  <g transform="translate(309.3333333333333 378)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">读前评估</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">风格与雷点，开书前就知道</text>
+  </g>
+  <g transform="translate(570.6666666666666 378)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">多角色听书</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">不同角色，不同声音</text>
+  </g>
+  <g transform="translate(48 448)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">对照翻译</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">外文书原文译文并排读</text>
+  </g>
+  <g transform="translate(309.3333333333333 448)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">典故解释</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">生僻词与典故，选中即解</text>
+  </g>
+  <g transform="translate(570.6666666666666 448)">
+    <rect x="0" y="-13" width="6" height="22" rx="3" fill="#D9573F"/>
+    <text x="18" y="5" font-size="18" font-weight="700" fill="#F3EEE5">书架助手</text>
+    <text x="18" y="32" font-size="15" fill="#A69D90">用一句话问你的书架</text>
+  </g>
+  <text x="48" y="522" font-size="14" fill="#A69D90">还有：笔记整理成书评 · 正文净化建议 · 自定义提示词 · 结果本地缓存，不重复消耗用量</text>
+</g>
+</svg>
